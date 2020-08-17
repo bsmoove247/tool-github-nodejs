@@ -40,7 +40,7 @@
     "dotenv-expand": "^5.1.0",
     "fs-extra": "^7.0.1",
     "load-json-file": "^6.0.0",
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.20"
   },
   "devDependencies": {
     "@types/aws-sdk": "^2.7.0",
